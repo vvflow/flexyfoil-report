@@ -3,7 +3,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "РНФ 18-71-00133"
+title: "Swimming fish CFD simulation"
 email: "yaroslav.dynnikov@gmail.com"
 description: >-
   Разработка эффективных бессеточных методов численного
