@@ -77,3 +77,13 @@ sections and circulations of new particles simultaneously.
 δ = 0.03
 
 <iframe width="100%" height="390" src="https://www.youtube.com/embed/zW2rwcQGvKg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Conclusion
+
+The methodology of modeling the body self- locomotion under own effort
+is developed. A method is applied for the fish-like model with the
+elastic hinges. The calculations performed by the developed method have
+shown its effectiveness. The dependency of the obtained quasi-
+stationary velocity on the elasticity is investigated. It is shown that
+very low spring constant of the hinge is not optimal as well as very
+high one.
