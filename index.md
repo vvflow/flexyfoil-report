@@ -70,11 +70,13 @@ sections and circulations of new particles simultaneously.
 ![]({{site.baseurl}}/images/a-11.png)
 ![]({{site.baseurl}}/images/a-12.png)
 
-### Piecewise-linear `sin()` approximation
+### Piecewise linear and sinusoidal forcing moment
 
-![]({{site.baseurl}}/images/lsin.png)
+![]({{site.baseurl}}/images/lsin-1.png)
+![]({{site.baseurl}}/images/lsin-2.png)
 
-δ = 0.03
+Comparison of sinusoidal and piecewise linear forcing moment at
+`delta = 0.03`.
 
 <iframe width="100%" height="390" src="https://www.youtube.com/embed/zW2rwcQGvKg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
