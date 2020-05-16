@@ -89,3 +89,8 @@ shown its effectiveness. The dependency of the obtained quasi-
 stationary velocity on the elasticity is investigated. It is shown that
 very low spring constant of the hinge is not optimal as well as very
 high one.
+
+### Acknowlegment
+
+The work was supported by the Russian Science Foundation
+(grant No. 18-71-00133).
