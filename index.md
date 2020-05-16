@@ -78,7 +78,7 @@ sections and circulations of new particles simultaneously.
 Comparison of sinusoidal and piecewise linear forcing moment at
 `delta = 0.03`.
 
-<iframe width="100%" height="390" src="https://www.youtube.com/embed/zW2rwcQGvKg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="390" src="https://www.youtube.com/embed/7xr_giqSfRc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Conclusion
 
